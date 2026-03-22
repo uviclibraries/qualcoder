@@ -39,21 +39,25 @@ QualCoder offers several advantages that make it a practical and accessible tool
 -  	Supports for open standards (REFI-QDA Standard)
 -  	Customizability (allow modifications)
 -  	 integration (Version 3.6 and above) 
-How to get QualCoder? 
+
+## How to get QualCoder? 
 [Follow this Pre-workshop Step-by-step guide to install QualCoder]
+
 QualCoder can be downloaded from its official GitHub repository, where both source code and executable files are available.
-•	Windows: Download the .exe installer for a straightforward "double-click" setup.
-•	macOS: Install the latest .dmg or .pkg file; you may need to grant permissions in your "Privacy and Security" settings by selecting "Open Anyway."
-Learning Objectives 
+- Windows: Download the .exe installer for a straightforward "double-click" setup.
+-	macOS: Install the latest .dmg or .pkg file; you may need to grant permissions in your "Privacy and Security" settings by selecting "Open Anyway."
+
+## Learning Objectives 
+
 By the end of this workshop, participants will be able to:
-•	Download the software
-•	Navigate the QualCoder interface
-•	Set up a new project 
-•	Import and organize qualitative data
-•	Apply basic codes to text data
-•	Perform simple analytical queries 
-•	Export coded data or reports 
-•	Save project files 
+- Download the software
+- Navigate the QualCoder interface
+-	Set up a new project 
+-	Import and organize qualitative data
+-	Apply basic codes to text data
+-	Perform simple analytical queries 
+-	Export coded data or reports 
+-	Save project files 
 
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
