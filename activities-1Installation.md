@@ -10,8 +10,7 @@ parent: Workshop Activities
 ## Install QualCoder
 
 A. Step 1: Download QualCoder
-1.	Go to the official QualCoder website or GitHub repository:
-https://github.com/ccbogel/QualCoder/releases 
+1.	Go to the official QualCoder [GitHub repository](https://github.com/ccbogel/QualCoder/releases){:target="_blank"} 
 2.	Scroll down to the latest version (version 3.8.2)
 3.	Download the appropriate file for your operating system: 
 -	  Windows: .exe file
