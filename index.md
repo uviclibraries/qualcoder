@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
+
 <img src="images/qualcoder256.png" style="float:right;width:180px;" alt="image description">
 
 # WORKSHOP TITLE HERE (Use Regular Case Like this)
