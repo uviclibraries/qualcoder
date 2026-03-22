@@ -20,7 +20,7 @@ parent: Workshop Activities
  <img src="images/Windows/InstallWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 2.	A “Windows protected your PC” message may appear.
  <img src="images/Windows/InstallWin3.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
-This is a standard security warning for applications downloaded from the internet.
+    This is a standard security warning for applications downloaded from the internet.
 3.	Click “More info”, then click “Run anyway”
  <img src="images/Windows/InstallWin4.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 4.	Follow the installation prompts
