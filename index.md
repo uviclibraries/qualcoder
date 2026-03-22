@@ -6,11 +6,11 @@ nav_order: 1
 
 <img src="images/qualcoder256.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Introduction to QualCoder
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 15 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 60-75 min
 
 ## Why TOOL NAME HERE? 
 
