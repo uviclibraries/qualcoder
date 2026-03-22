@@ -40,16 +40,16 @@ Before starting your analysis, it is helpful to configure a few basic settings i
         - 	Click OK
     - Select your name or initial in the Coder dialogue box and click OK 
 2. Configure Language and Appearance. You can adjust the interface to suit your preferences.
-•	Options:
-•	Select your preferred language (e.g., English, Spanish, French, German, Italian) 
-•	Adjust font type and size for better readability
+    - Options:
+        - Select your preferred language (e.g., English, Spanish, French, German, Italian)
+        - Adjust font type and size for better readability
 3. Manage Backups and Performance. These settings help ensure your project runs smoothly and your data is protected.
-•	Backups. Ensure that backups are enabled in Settings to prevent data loss 
-•	Project Directory. Choose a folder on your local drive for storing projects
-•	Important: Avoid running QualCoder projects directly from cloud-synced folders (e.g., OneDrive or Dropbox), as this may corrupt the database.
-•	Default Fragment Size (for large files) If your computer is slower or your files are large: 
-o	Reduce the fragment size (default: 50,000 characters) 
-o	This allows files to load in smaller sections
+    - Backups. Ensure that backups are enabled in Settings to prevent data loss 
+    - Project Directory. Choose a folder on your local drive for storing projects
+    - Important: Avoid running QualCoder projects directly from cloud-synced folders (e.g., OneDrive or Dropbox), as this may corrupt the database.
+    - Default Fragment Size (for large files) If your computer is slower or your files are large: 
+        - Reduce the fragment size (default: 50,000 characters) 
+        - This allows files to load in smaller sections
 
  
 
