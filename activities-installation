@@ -4,16 +4,14 @@ title: 1-Installation and Setup
 nav_order: 2
 parent: Workshop Activities
 ---
+# Additional Resources & Acknowledgements
 
-# Install QualCoder
+## WORKSHOP NAME HERE Resources
 
-Step-by-Step Installation Guide
 
-## A. Step 1: Download QualCoder
-1.	Go to the official QualCoder website or GitHub repository:
-https://github.com/ccbogel/QualCoder/releases 
-2.	Scroll down to the latest version (version 3.8.2)
-3.	Download the appropriate file for your operating system: 
-  - Windows: .exe file 
-  - e.g. QualCoder_3_8_2_setup.exe file 
+## Acknowledgements
 
+- [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
+- **MORE ACKNOWLEDGEMENTS HERE**
+
+[NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
