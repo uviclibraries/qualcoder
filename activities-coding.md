@@ -89,7 +89,9 @@ In this activity, you’ll be creating a project, importing files, and doing the
   - Enter a category name (e.g., “Climate Change Impacts”)
   - Click **OK**
 <img src="images/Windows/CodingHeirarchy.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+  - **Note**: In QualCoder, categories and codes are separate elements. Codes can be assigned to categories, but they cannot be converted into categories or organized in a parent–child hierarchy like in NVivo.
 
+9. Now continue reading through the document and apply categories and codes to additional sections of text (following **Step 6 - 8**). Do the same for the other pdf. 
 
 
 
