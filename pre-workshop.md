@@ -51,4 +51,4 @@ After coding, you will begin to group related codes into broader themes.
 - **Optional**: If you are new to qualitative coding, you might want to review this helpful [Coding Qualitative Data](https://docs.google.com/presentation/d/1l6-NMZ4S64ZkuER_pjk4ORVYH4tq7GHl/){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
 
 
-[NEXT STEP: Instal and Setup QualCoder](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Instal and Setup QualCoder](activities-1Installation.html){: .btn .btn-blue }
