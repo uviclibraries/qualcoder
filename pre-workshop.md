@@ -16,7 +16,7 @@ Qualitative Data Analysis (QDA) is the process of examining non-numerical data t
 
 Unlike quantitative analysis, which focuses on numbers, QDA focuses on understanding ideas, perspectives, and context.
 
-**2. What is Coding?**
+## 2. What is Coding?
 Coding is a core technique in qualitative analysis. Coding involves labeling segments of your data to identify patterns and related ideas. For example:
 - “Summer temperatures are increasing rapidly in our region.”
 - → Code: Increasing temperature
