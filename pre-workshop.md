@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Pre-Workshop Materials: Introduction to Qualitative Data Analysis and Coding
 
-This workshop is primarily hands-on practice with QualCoder in order to learn to use key features of the software. To participate fully please do the following before the workshop:
+This workshop is primarily hands-on practice with QualCoder in order to learn to use key features of the software. To participate fully please read through the following before the workshop:
 
 ## 1. What is Qualitative Data Analysis (QDA)?
 Qualitative Data Analysis (QDA) is the process of examining non-numerical data to understand meanings, patterns, and experiences. Examples of qualitative data include:
