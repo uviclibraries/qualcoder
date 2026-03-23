@@ -38,7 +38,7 @@ QualCoder offers several advantages that make it a practical and accessible tool
 -  Open-source and community driven development
 -  Supports for open standards (REFI-QDA Standard)
 -  Customizability (allow modifications)
--  integration (Version 3.6 and above) 
+-  AI integration (Version 3.6 and above) 
 
 ## How to get QualCoder? 
 QualCoder can be downloaded from its official GitHub repository, where both source code and executable files are available.
