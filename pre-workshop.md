@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pre-Workshop Activities
-nav_order: 2
+nav_order: 3
 ---
 # Pre-Workshop Materials: Introduction to Qualitative Data Analysis and Coding
 
