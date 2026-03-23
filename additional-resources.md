@@ -18,7 +18,7 @@ nav_order: 10
 - [Research Methods in Phychology - Qualitative Research](https://opentextbc.ca/researchmethods/chapter/qualitative-research/){:target="_blank"} - An Open Textbook chapter.
 - [Coding Qualitative Data](https://www.youtube.com/watch?v=lYzhgMZii3o){:target="_blank"} (9 min) 
 
-## UVic Libraries DSC Workshops also provides these QDA workshops: 
+## UVic Libraries DSC also provides these QDA workshops: 
 -	NVivo Introduction
 -	NVivo Advanced
 -	Tauguette 
