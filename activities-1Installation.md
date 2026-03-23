@@ -59,6 +59,4 @@ Before starting your analysis, it is helpful to configure a few basic settings i
  <img src="images/Windows/SetWin6.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
 
-
-**UPDATE**
 [NEXT STEP: Basic Coding in QualCoder](activities-coding.html){: .btn .btn-blue }
