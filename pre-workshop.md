@@ -13,6 +13,7 @@ Qualitative Data Analysis (QDA) is the process of examining non-numerical data t
 - Open-ended survey responses
 - Policy documents
 - Images and media 
+
 Unlike quantitative analysis, which focuses on numbers, QDA focuses on understanding ideas, perspectives, and context.
 
 **2. What is Coding?**
