@@ -75,6 +75,21 @@ In this activity, you’ll be creating a project, importing files, and doing the
   - Your new code will appear in the Codes panel on the left side of the screen.
 <img src="images/Windows/NewCodeWin3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
+7.	**Apply an Existing Code**
+  - Read through the document and identify another relevant sentence or phrase
+  - Highlight the text you want to code
+  - Right-click on the highlighted text, select **Mark with recent code (R)**
+  - Choose the appropriate code from the list (e.g., “Increasing temperature”)
+<img src="images/Windows/NewCodeWin4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+
+8. As you read through the article, you may notice that some codes are related. For example, increasing temperature can be linked to impacts such as coral bleaching, drought, and extreme weather. In this case, creating a hierarchy (categories) can help you organize related codes into broader themes. This creates a tree-like structure that shows how specific ideas (**codes**) relate to larger concepts (**categories**).
+  - In the Coding tab
+  - In the bottom-left panel, locate the **Codes section**
+  - Right click on any space on the Codes section, click **Add a new category**
+  - Enter a category name (e.g., “Climate Change Impacts”)
+  - Click **OK**
+<img src="images/Windows/CodingHeirarchy.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+
 
 
 
