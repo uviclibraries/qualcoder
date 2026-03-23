@@ -19,3 +19,5 @@ If you’re wondering which software is right for your project, here’s a quick
 - **You prefer structured support**: NVivo provides extensive training materials, tutorials, and professional support resources 
 ## Where to Start
 If you are unsure, starting with QualCoder is often a practical choice. It allows you to focus on developing your coding and analytical approach, and because it supports the REFI-QDA standard, you can later transition to other software if your project requires more advanced features.
+
+[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
