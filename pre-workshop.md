@@ -20,7 +20,7 @@ Unlike quantitative analysis, which focuses on numbers, QDA focuses on understan
 Coding is a core technique in qualitative analysis. Coding involves labeling segments of your data to identify patterns and related ideas. For example:
 - “Summer temperatures are increasing rapidly in our region.”
 - → Code: Increasing temperature
-- These labels (codes) help you organize your data and identify recurring themes.
+- These codes help you organize your data and identify recurring themes.
 
 **3. Why Do We Code?**
 Coding helps you:
