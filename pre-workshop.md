@@ -40,7 +40,7 @@ After coding, you will begin to group related codes into broader themes.
   - Codes:
   - Increasing temperature
   - Coral bleaching
-  - 	Drought 
+  - Drought 
 - → Theme: Climate Change Impacts
 This process helps move your analysis from specific observations → broader insights
 
