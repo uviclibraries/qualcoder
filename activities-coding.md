@@ -59,6 +59,21 @@ In this activity, you’ll be creating a project, importing files, and doing the
   - This is where you can **select text and apply codes**
 <img src="images/Windows/PdfWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
+6.	**First Round of Coding**
+  - Codes are labels that help you group together pieces of data that relate to the same idea, theme, or concept. When you code text, you are marking sections of your data so they can be easily retrieved and analyzed later.
+  - You can code your data in two ways in QualCoder:
+    - Code PDF view (**Coding → Code pdf**)
+    - Text coding view **(Coding → Code text**)
+  - Apply Your First Code (Create a New Code). Read through the document and identify a meaningful sentence or phrase
+  - Highlight the text you want to code
+  - Right-click on the highlighted text
+<img src="images/Windows/NewCodeWin1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+  - Select **Mark with new code (N)**, or press **N** key
+  - Enter a name for your code (e.g., “Increasing temperature”)
+  - Click **OK**
+<img src="images/Windows/NewCodeWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+  - Your new code will appear in the Codes panel on the left side of the screen.
+<img src="images/Windows/NewCodeWin3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 
 
