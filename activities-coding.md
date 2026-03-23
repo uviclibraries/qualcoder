@@ -91,7 +91,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 <img src="images/Windows/CodingHeirarchy.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - **Note**: In QualCoder, categories and codes are separate elements. Codes can be assigned to categories, but they cannot be converted into categories or organized in a parent–child hierarchy like in NVivo.
 
-9. Now continue reading through the document and apply categories and codes to additional sections of text (following **Step 6 - 8**). Do the same for the other pdf. 
+9. Now continue reading through the document and apply categories and codes to the rest of text (following **Step 6 - 8**). Do the same for the other pdf. 
 
 
 
