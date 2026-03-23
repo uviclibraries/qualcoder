@@ -44,7 +44,7 @@ After coding, you will begin to group related codes into broader themes.
 - → Theme: Climate Change Impacts
 - This process helps move your analysis from specific observations → broader insights
 
-- Watch, _Coding Qualitative Data_ (9 min):
+## Watch, _Coding Qualitative Data_ (9 min):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **Optional**: Another great resouce if you are new to qualitative coding from [SFU](https://www.sfu.ca/~palys/Saldana-CodingManualForQualResearch-IntroToCodes&Coding.pdf){:target="_blank"} (10 min).
