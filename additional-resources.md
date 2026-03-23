@@ -28,7 +28,7 @@ nav_order: 10
 
 ## Acknowledgements
 
-- [Elvia Willyono](https://www.linkedin.com/in/elvia-w){:target="_blank"}, who created the first version of this workshop 
+- [Elvia Willyono](https://www.linkedin.com/in/elvia-w){:target="_blank"}, who created the first version of this workshop. 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
