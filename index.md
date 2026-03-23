@@ -42,9 +42,9 @@ QualCoder offers several advantages that make it a practical and accessible tool
 
 ## How to get QualCoder? 
 QualCoder can be downloaded from its official GitHub repository, where both source code and executable files are available.
-- Windows: Download the .exe installer for a straightforward "double-click" setup.
+- Windows: Download the .exe installer for a straightforward "double-click" setup
 -	macOS: Install the latest .dmg or .pkg file;
- -	you may need to grant permissions in your "Privacy and Security" settings by selecting "Open Anyway."
+  -	you may need to grant permissions in your "Privacy and Security" settings
 
 ## Learning Objectives 
 
