@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Coding
+title: 2-Basic Coding
 nav_order: 3
 parent: Workshop Activities
 ---
