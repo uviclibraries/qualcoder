@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-In this activity, you’ll be creating a project, importing files, and doing the first round of coding
+In this activity, you will be introduced to the basic workflow in QualCoder. You will create a new project, import your files, and complete your first round of coding to begin identifying patterns in the data.
 
 1.	**Creating a New Project**
   - Open QualCoder
