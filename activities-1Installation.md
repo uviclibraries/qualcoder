@@ -61,4 +61,4 @@ Before starting your analysis, it is helpful to configure a few basic settings i
 
 
 **UPDATE**
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: Basic Coding in QualCoder](activities-coding.html){: .btn .btn-blue }
