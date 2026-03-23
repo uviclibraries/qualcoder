@@ -30,21 +30,21 @@ In addition, QualCoder provides tools for generating reports and visual outputs.
 ## Why use QualCoder?
 
 QualCoder offers several advantages that make it a practical and accessible tool for qualitative research:
-- 	Free and open source
-- 	Easy to use
-- 	Offline functionality
+-  Free and open source
+-  Easy to use
+-  Offline functionality
 -  Works offline 
 -  Cross-platform compatibility (runs on Windows, macOS, and Linux)
 -  Open-source and community driven development
--  	Supports for open standards (REFI-QDA Standard)
--  	Customizability (allow modifications)
--  	 integration (Version 3.6 and above) 
+-  Supports for open standards (REFI-QDA Standard)
+-  Customizability (allow modifications)
+-  integration (Version 3.6 and above) 
 
 ## How to get QualCoder? 
 QualCoder can be downloaded from its official GitHub repository, where both source code and executable files are available.
 - Windows: Download the .exe installer for a straightforward "double-click" setup
--	macOS: Install the latest .dmg or .pkg file;
-  -	you may need to grant permissions in your "Privacy and Security" settings
+-	macOS: Install the latest .dmg or .pkg file
+   -	You may need to grant permissions in your "Privacy and Security" settings
 
 ## Learning Objectives 
 
