@@ -58,4 +58,4 @@ By the end of this workshop, participants will be able to:
 -	Export coded data or reports 
 -	Save project files 
  
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+[NEXT STEP: Choosing between QualCoder and NVivo](softwareguide.html){: .btn .btn-blue }
