@@ -91,7 +91,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 <img src="images/Windows/CodingHeirarchy.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
  - **Note**: In QualCoder, categories and codes are separate elements. Codes can be assigned to categories, but they cannot be converted into categories or organized in a parent–child hierarchy like in NVivo.
 
-9. Continue Coding and Identify Themes. Continue reading through the document and apply codes to additional sections of text (following Steps 6–8). Repeat this process for the second PDF document. As you code, begin to identify broader patterns by grouping related codes together. This process is known as thematic analysis.
+9. **Continue Coding and Identify Themes**. Continue reading through the document and apply codes to additional sections of text (following **Steps 6–8**). Repeat this process for the second PDF document. As you code, begin to identify broader patterns by grouping related codes together. This process is known as thematic analysis.
   - For example, you may create codes such as: Increasing temperature, Coral bleaching, Drought
   - These individual codes can be grouped into broader themes (categories), such as: Climate Change Impacts
   - At this stage:
@@ -113,7 +113,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Click **Select code branch** to generate the graph
 <img src="images/Windows/ReportWin5.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
   - A visual tree showing categories and codes grouped under each category. 
-<img src="images/Windows/ReportWin6.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+<img src="images/Windows/ReportWin6.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 12. **Export the graph**. You can export the hierarchy graph for use in presentations or reports.
   - Click **Export Image** or **Export PDF**
