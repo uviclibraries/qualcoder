@@ -91,8 +91,43 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 <img src="images/Windows/CodingHeirarchy.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
  - **Note**: In QualCoder, categories and codes are separate elements. Codes can be assigned to categories, but they cannot be converted into categories or organized in a parent–child hierarchy like in NVivo.
 
-9. Now continue reading through the document and apply categories and codes to the rest of text (following **Step 6 - 8**). Do the same for the other pdf. 
+9. Continue Coding and Identify Themes. Continue reading through the document and apply codes to additional sections of text (following Steps 6–8). Repeat this process for the second PDF document. As you code, begin to identify broader patterns by grouping related codes together. This process is known as thematic analysis.
+  - For example, you may create codes such as: Increasing temperature, Coral bleaching, Drought
+  - These individual codes can be grouped into broader themes (categories), such as: Climate Change Impacts
+  - At this stage:
+    - Review how your codes are grouped within categories
+    - Identify patterns across your data
+    - Consider what these patterns suggest about your research topic
+   
+10. **Visualizing Your Findings using Coding Reports**. Once your codes and categories are organized, you can use QualCoder’s reports and charts to explore patterns in your data. Coding reports provide a structured view of all the text segments you have coded.
+  - From the top menu, click **Reports → Coding Reports**
+<img src="images/Windows/ReportWin1.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+  - In the Coding Reports window (Report tab). Select one or more codes and click **Run**
+<img src="images/Windows/ReportWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+  - A new window will appear showing coded text segments, file names, and coder name
+<img src="images/Windows/ReportWin3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
+11. **Code Hierarchy Graph (Visualizing Your Themes)**. The Code Hierarchy Graph provides a visual representation of your categories and codes.
+  - From the top menu, click **Reports → Graph** 
+<img src="images/Windows/ReportWin4.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+  - Click **Select code branch** to generate the graph
+<img src="images/Windows/ReportWin5.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+  - A visual tree showing categories and codes grouped under each category. 
+<img src="images/Windows/ReportWin6.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
+12. **Export the graph**. You can export the hierarchy graph for use in presentations or reports.
+  - Click **Export Image** or **Export PDF**
+<img src="images/Windows/ReportExport2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+  - Select a folder to save the file to your computer
+<img src="images/Windows/ReportExport3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
 
+13. **Wrapping Up.** In this activity, you have:
+  - Created a QualCoder project
+  - Imported and coded text data
+  - Applied codes to identify key ideas
+  - Organized codes into categories
+  - Identified themes and patterns in your data
+  - Explored your data using basic visualization 
+  - Generated and exported a report 
 
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
