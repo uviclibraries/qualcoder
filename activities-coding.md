@@ -64,6 +64,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - You can code your data in two ways in QualCoder:
     - Code PDF view (**Coding → Code pdf**)
     - Text coding view **(Coding → Code text**)
+
   - Apply Your First Code (Create a New Code). Read through the document and identify a meaningful sentence or phrase
   - Highlight the text you want to code
   - Right-click on the highlighted text
@@ -72,7 +73,8 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Enter a name for your code (e.g., “Increasing temperature”)
   - Click **OK**
 <img src="images/Windows/NewCodeWin2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
-  - Your new code will appear in the Codes panel on the left side of the screen.
+  - Your new code will appear in the Codes panel on the left side of the screen. 
+
 <img src="images/Windows/NewCodeWin3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 7.	**Apply an Existing Code**
