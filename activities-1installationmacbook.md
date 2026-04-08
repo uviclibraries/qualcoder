@@ -17,7 +17,6 @@ parent: Workshop Activities
 
 ## B.  Step 2: Install the Software
 1.	Open the .dmg file 
-[Screenshot]
 2.	Drag QualCoder into the Applications folder 
 3.	If the software is blocked, go to: 
   - System Settings → Privacy & Security 
