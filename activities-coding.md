@@ -47,7 +47,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Your imported files will now appear in the **Files panel**
 <img src="images/Windows/AddFilesWin4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - Double-click on a file to view or edit it
-<img src="images/Windows/AddFilesWin5.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+<img src="images/Windows/AddFilesWin5.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 5.	**Working with PDFs in QualCoder**. When you import PDF files into QualCoder, the software automatically converts them into plain text for coding. This allows you to easily highlight and apply codes. However, this can sometimes be confusing because the formatting of the original PDF (e.g., layout, columns, spacing) may not appear exactly the same in the text version.
   - QualCoder also allows you to view the original PDF alongside the extracted text.
