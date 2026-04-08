@@ -29,7 +29,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - This is where you: 
     - Read your documents
     - Highlight text
-    - Apply codes
+    - Apply codes 
  <img src="images/Windows/Interface.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 3.	**Importing Text Files into Your Project**
@@ -44,7 +44,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 <img src="images/Windows/AddFilesWin3.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 4.	**Viewing Your Imported Files**
-  - Your imported files will now appear in the **Files panel **
+  - Your imported files will now appear in the **Files panel**
 <img src="images/Windows/AddFilesWin4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - Double-click on a file to view or edit it
 <img src="images/Windows/AddFilesWin5.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
@@ -57,7 +57,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - The **PDF view** displays the original document, However, this view is **not editable**
   - The text panel (right side) shows the extracted plain text
   - This is where you can **select text and apply codes**
-<img src="images/Windows/PdfWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+<img src="images/Windows/PdfWin2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 6.	**First Round of Coding**
   - Codes are labels that help you group together pieces of data that relate to the same idea, theme, or concept. When you code text, you are marking sections of your data so they can be easily retrieved and analyzed later.
