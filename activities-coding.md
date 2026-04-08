@@ -64,7 +64,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Codes are labels that help you group together pieces of data that relate to the same idea, theme, or concept. When you code text, you are marking sections of your data so they can be easily retrieved and analyzed later.
   - You can code your data in two ways in QualCoder:
     - Code PDF view (**Coding → Code pdf**)
-    - Text coding view **(Coding → Code text**)
+    - Text coding view **(Coding → Code text**) 
 
   - Apply Your First Code (Create a New Code). Read through the document and identify a meaningful sentence or phrase
   - Highlight the text you want to code
