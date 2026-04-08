@@ -13,7 +13,7 @@ parent: Workshop Activities
 2.	Scroll down to the latest version (version 3.8.2)
 3.	Download the appropriate file for your operating system: 
     - macOS: .dmg file (e.g. QualCoder_3_8_2_macOs_arm64.dmg file)
- <img src="images/Windows/Installmac1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+ <img src="images/macbook/Installmac1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 ## B.  Step 2: Install the Software
 1.	Open the .dmg file 
