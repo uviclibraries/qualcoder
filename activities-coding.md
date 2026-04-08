@@ -29,8 +29,8 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - This is where you: 
     - Read your documents
     - Highlight text
-    - Apply codes 
- <img src="images/Windows/Interface.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+    - Apply codes
+<img src="images/Windows/Interface.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 3.	**Importing Text Files into Your Project**
   - Download the two workshop activity files from [this directory](https://bit.ly/DSC_NVIVO_Activity_1_Files){:target="_blank"}
