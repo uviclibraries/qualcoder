@@ -19,7 +19,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 If you’d like to earn a DSC badge for this workshop, please email the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Screenshots of the following:
-  - Your project workshpace
+  - Your project workspace
   - Imported files
   - Coding in progress (including the Codes Panel)
   - A category or report output
