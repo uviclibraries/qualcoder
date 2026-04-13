@@ -49,13 +49,12 @@ QualCoder can be downloaded from its official GitHub repository, where both sour
 ## Learning Objectives 
 
 By the end of this workshop, participants will be able to:
-- Download the software
-- Navigate the QualCoder interface
+-  Download the software
+-  Navigate the QualCoder interface
 -	Set up a new project 
 -	Import and organize qualitative data
 -	Apply basic codes to text data
 -	Perform simple analytical queries 
--	Export coded data or reports 
--	Save project files 
+-	Export reports 
  
 [NEXT STEP: Choosing between QualCoder and NVivo](softwareguide.html){: .btn .btn-blue }
