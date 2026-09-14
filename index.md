@@ -55,6 +55,7 @@ By the end of this workshop, participants will be able to:
 -	Import and organize qualitative data
 -	Apply basic codes to text data
 -	Perform simple analytical queries 
--	Export reports 
+-	Export reports
+-	Ashmeet is awesome!!!
  
 [NEXT STEP: Choosing between QualCoder and NVivo](softwareguide.html){: .btn .btn-blue }
