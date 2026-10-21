@@ -110,6 +110,8 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 
 12. **Export the graph**. You can export the hierarchy graph for use in presentations or reports.
   - Click **Export Image** or **Export PDF**
+<img src="images/Windows/ReportExport4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+OR
 <img src="images/Windows/ReportExport2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - Select a folder to save the file to your computer
 <img src="images/Windows/ReportExport3.png" alt="hierarchy chart" style="width:600px; margin-left:10px;">
