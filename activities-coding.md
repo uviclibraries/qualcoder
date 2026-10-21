@@ -47,7 +47,6 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Your imported files will now appear in the **Files panel**
 <img src="images/Windows/AddFilesWin4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - Double-click on a file to view or edit it
-<img src="images/Windows/AddFilesWin5.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 5.	**Working with PDFs in QualCoder**. QualCoder 4.0 allows you to code text and image areas directly on PDF pages. This makes it easier to work with PDF documents while viewing their original layout. However, PDF formatting can sometimes affect how text and other elements are displayed, particularly in documents with multiple columns or complex layouts.
   - From the top menu, click **Coding → Code Pdf**
