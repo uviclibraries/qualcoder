@@ -49,14 +49,13 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Double-click on a file to view or edit it
 <img src="images/Windows/AddFilesWin5.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
-5.	**Working with PDFs in QualCoder**. When you import PDF files into QualCoder, the software automatically converts them into plain text for coding. This allows you to easily highlight and apply codes. However, this can sometimes be confusing because the formatting of the original PDF (e.g., layout, columns, spacing) may not appear exactly the same in the text version.
-  - QualCoder also allows you to view the original PDF alongside the extracted text.
+5.	**Working with PDFs in QualCoder**. QualCoder 4.0 allows you to code text and image areas directly on PDF pages. This makes it easier to work with PDF documents while viewing their original layout. However, PDF formatting can sometimes affect how text and other elements are displayed, particularly in documents with multiple columns or complex layouts.
   - From the top menu, click **Coding → Code Pdf**
 <img src="images/Windows/PdfWin1.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
-  - Click on one of the pdf files
-  - The **PDF view** displays the original document, However, this view is **not editable**
-  - The text panel (right side) shows the extracted plain text
-  - This is where you can **select text and apply codes**
+  - Select one of your imported PDF files
+  - The PDF viewer displays the document, allowing you to navigate through its pages.
+  - Select the text you want to code directly on the PDF page.
+  - Apply an existing code or create a new code for the selected text.
 <img src="images/Windows/PdfWin2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 6.	**First Round of Coding**
