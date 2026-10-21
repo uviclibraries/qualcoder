@@ -101,8 +101,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 <img src="images/Windows/ReportWin3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 11. **Code Hierarchy Graph (Visualizing Your Themes)**. The Code Hierarchy Graph provides a visual representation of your categories and codes.
-  - From the top menu, click **Reports → Graph** 
-<img src="images/Windows/ReportWin4.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+  - From the top menu, click **Analysis → Graph** 
   - Click **Select code branch** to generate the graph
 <img src="images/Windows/ReportWin5.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
   - A visual tree showing categories and codes grouped under each category. 
