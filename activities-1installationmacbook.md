@@ -9,20 +9,26 @@ parent: Workshop Activities
 
 ## A. Step 1: Download QualCoder
 
-1.	Go to the official [QualCoder GitHub repository](https://github.com/ccbogel/QualCoder/releases){:target="_blank"} 
-2.	Scroll down to the latest version (version 3.8.2)
+1.	Go to the official [QualCoder GitHub repository](https://github.com/ccbogel/QualCoder/releases/tag/4.0){:target="_blank"} 
+2.	Scroll down to the latest version (version 4.0)
 3.	Download the appropriate file for your operating system: 
-    - macOS: .dmg file (e.g. QualCoder_3_8_2_macOs_arm64.dmg file)
- <img src="images/macbook/Installmac1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+    - macOS: .dmg file (e.g. macOS_arm_QualCoder_4.0.dmg file)
+ <img src="images/macbook/macOS_download0.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 ## B.  Step 2: Install the Software
-1.	Open the .dmg file 
-2.	Drag QualCoder into the Applications folder 
-3.	If the software is blocked, go to:
-    - System Settings → Privacy & Security
-    - Click “Open Anyway” 
-4. Follow the installation prompts
-5. Once installed, launch QualCoder
+1.	Open the downloaded .dmg file
+<img src="images/macbook/macOS_download1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+2.	Drag **QualCoder** into the **Applications** folder
+<img src="images/macbook/macOS_download2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+3.	Open **QualCoder** from your Applications folder.
+<img src="images/macbook/macOS_download3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+4.	If the software is blocked, go to:
+    - **System Settings → Privacy & Security**
+    - Scroll down to the Security section and click **Open Anyway**
+<img src="images/macbook/macOS_download4.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+<img src="images/macbook/macOS_download5.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+5. Follow the installation prompts
+6. Once installed, launch QualCoder
 
 ## C. Settings in QualCoder
 
