@@ -95,6 +95,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
    
 10. **Visualizing Your Findings using Coding Reports**. Once you have organized your codes and categories, you can use QualCoder's analysis tools to explore patterns in your data. Coding Retrieval allows you to review the segments of data associated with selected codes.
   - From the top menu, click **Analysis → Coding Retrieval**
+<img src="images/Windows/ReportWin1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - In the Coding Reports window (Report tab). Select one or more codes and click **Run**
 <img src="images/Windows/ReportWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
   - Review the results, including the coded text segments, file names, and coder name
