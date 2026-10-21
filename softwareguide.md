@@ -16,7 +16,6 @@ If you’re wondering which software is right for your project, here’s a quick
 ## Choose NVivo if…
 - **You are working with large datasets**: For example, analyzing large volumes of social media or web-based data
 - **You need advanced analytical tools**: Such as matrix queries, clustering, or built-in visualization tools
-- **You have access to institutional licensing**: UVic offers NVivo at a discounted rate, which is significantly lower than the standard Student and Academic license
 - **You prefer structured support**: NVivo provides extensive training materials, tutorials, and professional support resources 
 
 ## Where to Start
