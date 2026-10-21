@@ -56,7 +56,6 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - The PDF viewer displays the document, allowing you to navigate through its pages.
   - Select the text you want to code directly on the PDF page.
   - Apply an existing code or create a new code for the selected text.
-<img src="images/Windows/PdfWin2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 
 6.	**First Round of Coding**
   - Codes are labels that help you group together pieces of data that relate to the same idea, theme, or concept. When you code text, you are marking sections of your data so they can be easily retrieved and analyzed later.
