@@ -15,7 +15,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
     - Enter a project name (e.g., “2019 Youth Climate March News Analysis”)
     - Choose a location on your computer to save the project
   - Click **Save**
-<img src="images/Windows/NewProjWin2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
+<img src="images/Windows/NewProjWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 2.	**Navigating the QualCoder Workspace.** Once your project is created, you will see the main QualCoder interface. The workspace is organized into a few key areas that you will use throughout your analysis.
   - **Top Menu Bar.** Located at the top of the screen. Contains key functions such as: 
