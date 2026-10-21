@@ -68,7 +68,6 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
   - Click **OK**
 <img src="images/Windows/NewCodeWin2.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
   - Your new code will appear in the Codes panel on the left side of the screen. 
-
 <img src="images/Windows/NewCodeWin3.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 
 7.	**Apply an Existing Code**
@@ -81,11 +80,10 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
 8. As you read through the article, you may notice that some codes are related. For example, increasing temperature can be linked to impacts such as coral bleaching, drought, and extreme weather. In this case, creating a hierarchy (categories) can help you organize related codes into broader themes. This creates a tree-like structure that shows how specific ideas (**codes**) relate to larger concepts (**categories**).
   - In the Coding tab
   - In the bottom-left panel, locate the **Codes section**
-  - Right click on any space on the Codes section, click **Add a new category**
+  - Right click on any space on the Codes section, click **Create new category**
   - Enter a category name (e.g., “Climate Change Impacts”)
   - Click **OK**
 <img src="images/Windows/CodingHeirarchy.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
- - **Note**: In QualCoder, categories and codes are separate elements. Codes can be assigned to categories, but they cannot be converted into categories or organized in a parent–child hierarchy like in NVivo.
 
 9. **Continue Coding and Identify Themes**. Continue reading through the document and apply codes to additional sections of text (following **Steps 6–8**). Repeat this process for the second PDF document. As you code, begin to identify broader patterns by grouping related codes together. This process is known as thematic analysis.
   - For example, you may create codes such as: Increasing temperature, Coral bleaching, Drought
@@ -96,7 +94,7 @@ In this activity, you will be introduced to the basic workflow in QualCoder. You
     - Consider what these patterns suggest about your research topic
    
 10. **Visualizing Your Findings using Coding Reports**. Once your codes and categories are organized, you can use QualCoder’s reports and charts to explore patterns in your data. Coding reports provide a structured view of all the text segments you have coded.
-  - From the top menu, click **Reports → Coding Reports**
+  - From the top menu, click **Analysis → Coding Reports**
 <img src="images/Windows/ReportWin1.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
   - In the Coding Reports window (Report tab). Select one or more codes and click **Run**
 <img src="images/Windows/ReportWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
