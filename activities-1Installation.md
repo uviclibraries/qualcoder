@@ -17,7 +17,7 @@ parent: Workshop Activities
 
 ## B.  Step 2: Install the Software
 1.	Double-click the downloaded .exe file 
- <img src="images/Windows/InstallWin2.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
+ <img src="images/Windows/Win_download1.png" alt="hierarchy chart" style="width:800px; margin-left:10px;">
 2.	A “**Windows protected your PC**” message may appear. This is a standard security warning for applications downloaded from the internet. 
  <img src="images/Windows/InstallWin3.png" alt="hierarchy chart" style="width:500px; margin-left:10px;">
 3.	Click “**More info**”, then click “**Run anyway**”
