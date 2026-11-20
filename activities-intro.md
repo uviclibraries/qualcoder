@@ -4,7 +4,7 @@ title: Self-Directed Introduction
 nav_order: 4
 
 ---
-# Hands-On Self-Directed Introduction
+# Introduction for Self-Directed Learners
 
 The workshop consists of two activities: 1-installing and setting up QualCoder and 2-a basic coding exercise.
 Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1FcdXmvYZjpS4mnwmeBcCOpaTV2s0xwy1szqVqgxN4ZY/edit?usp=sharing){:target="_blank"} 
